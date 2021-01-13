@@ -32,18 +32,6 @@ button:active {
     color: #fff;
 }
 
-.courses {
-    margin-top: 40px;
-}
-
-.courses li {
-    margin-bottom: 20px;
-}
-
-.courses a {
-    color: #222;
-}
-
 .slider {
     border: 2px solid black;
     width: 256px;
